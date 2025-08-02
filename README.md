@@ -2,7 +2,7 @@
 
 <div align='center'>
 
-![WhatsApp API](https://files.catbox.moe/ibz8hp.jpg)
+![WhatsApp API](https://files.catbox.moe/t80m88.jpg)
 
 </div>
 
@@ -30,17 +30,17 @@ Here is an example you can use: [example.ts](Example/example.ts) or here is a tu
 
 Use the stable version:
 ```bash
-npm install @slnckyami/V3-Baileys
+npm install @kaishinava/V2-Baileys
 ```
 
 Use the edge version (no guarantee of stability, but latest fixes + features)
 ```bash
-yarn add @slnckyami/V3-Baileys@latest
+yarn add @kaishinava/V2-Baileys@latest
 ```
 
 Then import your code using:
 ```javascript
-const { default: makeWASocket } = require("@slnckyami/V3-Baileys")
+const { default: makeWASocket } = require("@kaishinava/V1-Baileys")
 ```
 # Links
 
