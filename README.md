@@ -40,7 +40,7 @@ yarn add @kaishinava/V2-Baileys@latest
 
 Then import your code using:
 ```javascript
-const { default: makeWASocket } = require("@kaishinava/V1-Baileys")
+const { default: makeWASocket } = require("@kaishinava/V2-Baileys")
 ```
 # Links
 
