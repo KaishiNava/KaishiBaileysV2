@@ -1,5 +1,5 @@
 {
-  "name": "KaishiNava/KaishiBaileysV2",
+  "name": "@kaishinava/V2-Baileys",
   "version": "1.0.2",
   "description": "WhatsApp Beta",
   "keywords": [
@@ -12,9 +12,9 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/KaishiNava/KaishiBaileysV2",
+  "homepage": "https://github.com/KaishiNava/@kaishinava/V2-Baileys",
   "repository": {
-    "url": "git@github.com:KaishiNava/KaishiBaileysV2.git"
+    "url": "git@github.com:KaishiNava/@kaishinava/V2-Baileys.git"
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
